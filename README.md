@@ -13,7 +13,7 @@
 
 ## Nombre personnes participant aux projet
 
-#Rubriques sur votre rôle dans le projet
+# Rubriques sur votre rôle dans le projet
 ## Compétences requises
 
 ## Activités réalisées
