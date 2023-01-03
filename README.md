@@ -9,9 +9,11 @@
 
 ## Dates clés du projet (Jalon)
 
+## Principaux livrables
+
 ## Fin du projet
 
-## Nombre personnes participant aux projet
+## Nombre de personnes participant au projet
 
 # Rubriques sur votre rôle dans le projet
 ## Compétences requises
