@@ -1,4 +1,6 @@
 # Gestion de projets
 
 ## 2023-01-17
-- [Mode opératoire création du suivi de projet](/assets/jira_init.pdf)
+- [Mode opératoire pour la création du suivi de projet](assets/jira_init.pdf)
+- [Mode opératoire pour la saisie du projet](fiche-projet/assets/jira_init.pdf)
+- [Liste des epics](/fiche-projet/assets/jira_init.pdf)
